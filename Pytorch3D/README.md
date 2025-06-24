@@ -1,0 +1,3 @@
+# DeepLearning approach code implementation
+
+This is the DeepLearning approach code implementation explained on my thesis. Before running this code, please save the selectedimage from the ActorsHQ dataset under the `data` folder. The structure of the folder should be: `imgs` folder should contain the selected RGB images of this dataset, the `silhouettes` folder should contain their respective silhouettes. In addition, the `calibration.csv` file (which should also be under the `data` folder) should contain the provided information of the calibration of the cameras.
